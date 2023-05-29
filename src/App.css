@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    place-items: center;
+    margin-top: 30px;
+}
+
+.count-button {
+    padding:5px 20px;
+    margin:15px;
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+    display: inline;
+    background-color: rgb(46, 53, 255);
+    color: white;
+    font-size: 18px;
+}
+.count-button:hover {
+    background-color: rgb(10, 16, 193);
+
+}
+.main-number {
+    display: inline;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 20px 0 20px;
+    color: rgb(144, 0, 239);
+    border-bottom: dotted 1px rgb(144, 0, 239);
+}
